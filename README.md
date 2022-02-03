@@ -1,5 +1,5 @@
 ### Video #237 Doorbell Range Extender
-My wireless doorbell would not reach my workshop!  
+My wireless doorbell signal would not reach my workshop!  
 
 ► JLCPCB Only $2 for PCB Prototype any colour https://jlcpcb.com/cyt  
 ![Thumbnail](https://user-images.githubusercontent.com/20911308/152337872-3bc5dccc-ce03-460d-bb92-f99fa0d809cc.jpg)
