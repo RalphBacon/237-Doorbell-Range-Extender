@@ -10,18 +10,21 @@ So I needed to extend the range of my wireless doorbell. What did I do and how d
 https://buymeacoffee.com/ralphbacon
 
 ► Don't forget to download the newest Arduino IDE 2.0 (now Release Candidate 3 - very stable)  
+![image](https://user-images.githubusercontent.com/20911308/153877615-353e445a-6e37-479b-8b15-315818f7aa8f.png)  
 https://www.arduino.cc/en/software#experimental-software  
 
 ► Sketch for this project is right here in this GitHub  
 Just look at the list of folders and files above!  
 
 ► The wireless doorbell I used from amazon:  
+![image](https://user-images.githubusercontent.com/20911308/153875792-ed2fec70-bbb3-443c-b661-3d21362ca9b0.png)  
 https://amzn.to/34eKjAe  
 
 ► Arduino Nano (will be much cheaper to buy in multiples)   
 https://www.banggood.com/custlink/3mGhblp6et   
 
 ► In case you missed it  
+![image](https://user-images.githubusercontent.com/20911308/153877783-f4d6002b-6954-4f8e-a4c7-cf452a491f1d.png)  
 Multimeter Probe Kit: https://www.banggood.com/custlink/3vGYQlWe4S  
 
 ► List of all my videos
